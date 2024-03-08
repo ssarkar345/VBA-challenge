@@ -1,4 +1,4 @@
-**Instructions**
+#**Instructions**
 Create a script that loops through all the stocks for one year and outputs the following information:
 
 The ticker symbol
@@ -15,7 +15,7 @@ Use the sheet alphabetical_testing.xlsx while developing your code. This dataset
 
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
-**Requirements**
+#**Requirements**
 Retrieval of Data (20 points)
 The script loops through one year of stock data and reads/ stores all of the following values from each row:
 
